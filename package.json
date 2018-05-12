@@ -1,0 +1,23 @@
+{
+  "name": "test-wercker",
+  "version": "1.0.0",
+  "description": "Simple Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfan-ahmed/test-wercker.git"
+  },
+  "author": "irfan ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irfan-ahmed/test-wercker/issues"
+  },
+  "homepage": "https://github.com/irfan-ahmed/test-wercker#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "when": "^3.7.8"
+  }
+}
